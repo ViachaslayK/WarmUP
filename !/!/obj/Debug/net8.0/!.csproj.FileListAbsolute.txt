@@ -1,0 +1,14 @@
+C:\Users\Slava K\source\repos\WarmUP\!\!\bin\Debug\net8.0\!.exe
+C:\Users\Slava K\source\repos\WarmUP\!\!\bin\Debug\net8.0\!.deps.json
+C:\Users\Slava K\source\repos\WarmUP\!\!\bin\Debug\net8.0\!.runtimeconfig.json
+C:\Users\Slava K\source\repos\WarmUP\!\!\bin\Debug\net8.0\!.dll
+C:\Users\Slava K\source\repos\WarmUP\!\!\bin\Debug\net8.0\!.pdb
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\!.AssemblyInfoInputs.cache
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\!.AssemblyInfo.cs
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\!.csproj.CoreCompileInputs.cache
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\!.dll
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\refint\!.dll
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\!.pdb
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\!.genruntimeconfig.cache
+C:\Users\Slava K\source\repos\WarmUP\!\!\obj\Debug\net8.0\ref\!.dll
