@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xSs9hlVRRuUjg15zu0zLT4T6J0SL3hxYzd0hIg+gJgL2jZrVFVDC6cJfRlciXma8zTQPDWkRhgpJZHUtwxHunQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Slava K\\source\\repos\\WarmUP\\PracticWebSIte\\PracticWebSIte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Slava K\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
